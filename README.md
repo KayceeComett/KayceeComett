@@ -1,13 +1,10 @@
-@OSSDAO-ORG•AIRDROP- 0x3F6557f090Db691fd10F8d956F46c9c598F11280
-
 - 👋 Hi, I’m @KayceeComett
 - 👀 I’m interested in Blockchain technology, mobile tech, good music and dope art.
 - 🌱 I’m currently learning 3d animation and modelling, forex trading.
 - 💞️ I’m looking to collaborate on brand design and other graphic design projects.
 - 📫 How to reach me:
-     Kayceecomett@gmail.com
-     https://wa.me/2349020496612
-
+      * https://wa.me/2349020496612
+      * https://twitter.com/RRRidley_
 <!---
 KayceeComett/KayceeComett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
