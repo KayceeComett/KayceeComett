@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KayceeComett
+- 👋 Hi, I’m @KayceeEasy
 - 👀 I’m interested in Blockchain technology, mobile tech, good music and dope art.
 - 🌱 I’m currently learning 3d animation and modelling, forex trading.
 - 💞️ I’m looking to collaborate on brand design and other graphic design projects.
